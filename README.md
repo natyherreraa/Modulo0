@@ -1,2 +1,3 @@
 # Modulo0
-Practicas
+Practicas para actividades de curso Machine Learning
+
